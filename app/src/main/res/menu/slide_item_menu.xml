@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ActionTrip"
+        android:icon="@drawable/ic_trip_icon"
+        android:title="@string/trips" />
+    <item
+        android:id="@+id/ActionPayment"
+        android:icon="@drawable/ic_payment_icon"
+        android:title="@string/payment" />
+    <item
+        android:id="@+id/ActionFavorite"
+        android:icon="@drawable/ic_favorite_icon"
+        android:title="@string/favorite_addresses"/>
+</menu>
